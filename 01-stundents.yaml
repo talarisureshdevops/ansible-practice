@@ -1,0 +1,24 @@
+- name: "sivakumar"
+  dob: "15-07-1991"
+  mobileNumber: 9769175730
+  addresss:
+  - FlatNumber: 104
+    streetName: "gandi nagar"
+    city: hyferabad
+    type: current
+  - FlatNumber: 105
+    streetName: "ramalayam"
+    city: balijapalem
+    type: permanent
+- name: "ravi"
+  dob: "15-07-1991"
+  mobileNumber: 9769175730
+  addresss:
+  - FlatNumber: 104
+    streetName: "gandi nagar"
+    city: hyferabad
+    type: current
+  - FlatNumber: 105
+    streetName: "ramalayam"
+    city: balijapalem
+    type: permanent

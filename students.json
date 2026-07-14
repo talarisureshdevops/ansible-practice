@@ -1,0 +1,49 @@
+{
+  "Students": [
+    {
+      "StudentID": 101,
+      "FirstName": "Suresh",
+      "LastName": "Kumar",
+      "Gender": "Male",
+      "Age": 24,
+      "Department": "Computer Science",
+      "Email": "suresh@example.com",
+      "Phone": "9876543210",
+      "City": "Hyderabad",
+      "State": "Telangana",
+      "Country": "India",
+      "CGPA": 8.7,
+      "Year": 4
+    },
+    {
+      "StudentID": 102,
+      "FirstName": "Anitha",
+      "LastName": "Reddy",
+      "Gender": "Female",
+      "Age": 22,
+      "Department": "Electronics",
+      "Email": "anitha@example.com",
+      "Phone": "9123456789",
+      "City": "Chennai",
+      "State": "Tamil Nadu",
+      "Country": "India",
+      "CGPA": 9.2,
+      "Year": 3
+    },
+    {
+      "StudentID": 103,
+      "FirstName": "Rahul",
+      "LastName": "Sharma",
+      "Gender": "Male",
+      "Age": 23,
+      "Department": "Mechanical",
+      "Email": "rahul@example.com",
+      "Phone": "9988776655",
+      "City": "Bengaluru",
+      "State": "Karnataka",
+      "Country": "India",
+      "CGPA": 8.4,
+      "Year": 4
+    }
+  ]
+}

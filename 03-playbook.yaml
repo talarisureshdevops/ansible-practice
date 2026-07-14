@@ -1,0 +1,5 @@
+- name: hello world
+  hosts: web
+  tasks: print the hello world
+  ansible.builtin.debug:
+    msg: "Hello World! from team"
